@@ -1,3 +1,8 @@
+"""
+只需要更改js中代码即可
+"""
+
+
 import frida
 import sys
 jscode ='''
